@@ -29,6 +29,12 @@ A travel planner application that helps users organize their trips by displaying
 - Enable multi-language options (e.g., English and Arabic).
 
 # useing APIs:
-## - Travel API: For fetching popular tourist destinations.
-## - OpenWeather API: To retrieve weather data for destinations.
-## - Google Places API: For displaying accommodation and restaurant options.
+- Travel API: For fetching popular tourist destinations.
+- OpenWeather API: To retrieve weather data for destinations.
+- Google Places API: For displaying accommodation and restaurant options.
+
+# Frontend Technologies:
+- React.js
+- React Router
+- Context API 
+- Tailwind
