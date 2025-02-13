@@ -14,7 +14,7 @@ A travel planner application that helps users organize their trips by displaying
 ### 4- Page Navigation:
 - Use React Router for seamless navigation between pages.
 ### 5- Attractive UI:
-- Design inspired by travel companies like TripAdvisor or Airbnb.
+- Design inspired by travel companies like TripAdvisor.
 
 # Additional Features :
 ### 1- Weather Page:
@@ -27,3 +27,8 @@ A travel planner application that helps users organize their trips by displaying
 - Provide alerts for upcoming trips or significant weather changes.
 ### 5- Multi-language Support:
 - Enable multi-language options (e.g., English and Arabic).
+
+# useing APIs:
+## - Travel API: For fetching popular tourist destinations.
+## - OpenWeather API: To retrieve weather data for destinations.
+## - Google Places API: For displaying accommodation and restaurant options.
