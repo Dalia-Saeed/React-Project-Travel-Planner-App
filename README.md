@@ -18,7 +18,7 @@ A travel planner application that helps users organize their trips by displaying
 
 # Additional Features :
 ## 1- Weather Page:
--Display daily weather and forecasts for upcoming days for each destination.
+- Display daily weather and forecasts for upcoming days for each destination.
 ## 2- Custom Trip Creation:
 - Allow users to add custom trips with their own details.
 ## 3- Map Integration:
