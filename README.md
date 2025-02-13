@@ -15,3 +15,15 @@ A travel planner application that helps users organize their trips by displaying
 - Use React Router for seamless navigation between pages.
 ### 5- Attractive UI:
 - Design inspired by travel companies like TripAdvisor or Airbnb.
+
+# Additional Features :
+## 1- Weather Page:
+-Display daily weather and forecasts for upcoming days for each destination.
+## 2- Custom Trip Creation:
+- Allow users to add custom trips with their own details.
+## 3- Map Integration:
+- Show the destination location on a map using libraries like Leaflet or Google Maps API.
+## 4- Notifications:
+- Provide alerts for upcoming trips or significant weather changes.
+## 5- Multi-language Support:
+- Enable multi-language options (e.g., English and Arabic).
