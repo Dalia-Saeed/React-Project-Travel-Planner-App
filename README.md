@@ -1,4 +1,4 @@
-✈️ # Project Idea: Travel Planner App
+ # Project Idea:✈️ Travel Planner App
 ## Description:
 A travel planner application that helps users organize their trips by displaying popular destinations, weather, and accommodation options. Users can save and manage planned trips based on date and location.
 
